@@ -4,7 +4,7 @@ chardet==3.0.4
 coverage==4.5.4
 dataclasses==0.6
 defusedxml==0.6.0
-Django==2.2.5
+Django==2.2.22
 django-allauth==0.40.0
 django-cors-headers==3.1.0
 django-rest-auth==0.9.5
